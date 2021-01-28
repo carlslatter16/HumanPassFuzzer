@@ -9,9 +9,9 @@ A project made to illustrate the capability to itterate through common human beh
 May be slow / unstable for longer words (Good!) Also, recursion limits may have to be altered for some use cases (Added risk).
 
  ## To-Do: 
- * Symbol : Number order switch for extra combination
+ * Symbol : number order switch for extra combination
  * Argument support for configuration
- * TUI / Argument for levels of intensity
+ * TUI / toggles for levels of intensity
 
  ## Built With:
 
