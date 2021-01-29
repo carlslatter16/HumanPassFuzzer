@@ -1,6 +1,6 @@
 # HumanPassFuzzer
 ## Educational Purposes Only! #
-A project made to illustrate the capability to itterate through common human behaviours when choosing a password. A proof of concept of my understanding of hashcat rules
+A project made to illustrate the capability to itterate through common human behaviours when choosing a password. A PoC showing my understanding of hashcat rules.
 
 ## Prerequisites
  * Python3 (sudo apt-get install python3)
