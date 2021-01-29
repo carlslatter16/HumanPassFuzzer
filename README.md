@@ -12,6 +12,8 @@ May be slow / unstable for longer words (Good!) Also, recursion limits may have 
  * Symbol : number order switch for extra combination
  * Argument support for configuration
  * TUI / toggles for levels of intensity
+ * Single direction l or i etc.. to !
+
 
  ## Built With:
 
