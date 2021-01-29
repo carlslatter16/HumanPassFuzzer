@@ -6,7 +6,7 @@ A project made to illustrate the capability to itterate through common human beh
  * Python3 (sudo apt-get install python3)
  
 ## Notice: 
-May be slow / unstable for longer words (Good!) Also, recursion limits may have to be altered for some use cases (Added risk).
+May be slow / unstable for longer words (Good!) Also, recursion limits may have to be altered for some use cases (Added risk). Running multiple times if error can help generate the full list.
 
  ## To-Do: 
  * Symbol : number order switch for extra combination
