@@ -16,7 +16,7 @@ Running multiple times if errors occur can help generate the full list.
  * Single direction l or i etc.. to !
  * Closer behavior to hashcat rules
  * Speed & efficiency improvements
- * Added '123' affix
+ * Add '123' affix and other best64 variations
 
 
  ## Built With:
