@@ -15,7 +15,8 @@ Running multiple times if errors occur can help generate the full list.
  * TUI / toggles for levels of intensity
  * Single direction l or i etc.. to !
  * Closer behavior to hashcat rules
- * Speed & Efficiency Improvements
+ * Speed & efficiency improvements
+ * Added '123' affix
 
 
  ## Built With:
